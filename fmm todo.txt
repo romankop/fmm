@@ -1,0 +1,4 @@
+metron jump diffusion
+fractal bm
+mu - вместо векторов сделать матрицы
+в дисперсии в матричном виде надо перемножать sigma и S, а не sigma и dW
